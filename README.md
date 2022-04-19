@@ -22,7 +22,7 @@
   <i> - Moneve's Programming Life</i>
 </p>
 <p>
-  <i> - There are many blog posts about Python and Mathematics.</i>
+  <i> - There are many blog posts about <b> Python and Mathematics. </b> </i>
 </p>
 <p>
   <i> - I post more than three posts a week.</i>
