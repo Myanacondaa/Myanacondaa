@@ -19,10 +19,10 @@
 #
 <h3> <a href="https://blog.naver.com/jhpark0012"> MPL </a> </h3>
 <p>
-  <i> - Moneve's Programming Life</i>
+  <i> - <b> Moneve's Programming Life </b> </i>
 </p>
 <p>
-  <i> - There are many blog posts about <b> Python and Mathematics. </b> </i>
+  <i> - There are many blog posts about <b> Python </b> and <b> Mathematics. </b> </i>
 </p>
 <p>
   <i> - I post more than three posts a week.</i>
