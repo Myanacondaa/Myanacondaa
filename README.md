@@ -17,7 +17,10 @@
 
 
 #
-<h3> <a href="https://blog.naver.com/jhpark0012">Moneve's Programming Life </a> </h3>
+<h3> <a href="https://blog.naver.com/jhpark0012"> MPL </a> </h3>
+<p>
+  <i>Moneve's Programming Life</i>
+</p>
 <p>
   <i>There are many blog posts about Python and Mathematics.</i>
 </p>
