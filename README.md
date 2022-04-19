@@ -20,6 +20,8 @@
 <h3> <a href="https://blog.naver.com/jhpark0012">Moneve's Programming Life </a> </h3>
 <p>
   <i>There are many blog posts about Python and Mathematics.</i>
+</p>
+<p>
   <i>I post more than three posts a week.</i>
 </p>
 
