@@ -17,7 +17,7 @@
 
 
 #
-<h3> <a href="https://blog.naver.com/jhpark0012"> MPL </a> </h3>
+<h3> <a href="https://blog.naver.com/jhpark0012" target= '_blank'> MPL </a> </h3>
 <p>
   <i> - <b> Moneve's Programming Life </b> </i>
 </p>
