@@ -4,7 +4,7 @@
 
 #
 <h2> Tech Stack 
-<h3> Techs that I've used at least once</h3>
+<h4> Techs that I've used at least once</h4>
 </h2>
 <p>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
