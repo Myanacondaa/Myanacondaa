@@ -21,8 +21,8 @@
 <h4> Moneve's Programming Life</h4>
 </h3>
 <p>
-  <u>There are many posts about Python and Mathematics.</u>
-  <u>I post more than three blog posts a week.</u>
+  <i>There are many posts about Python and Mathematics.</i>
+  <i>I post more than three blog posts a week.</i>
 </p>
 
 
