@@ -17,12 +17,10 @@
 
 
 #
-<h3> MY BLOG
-<h4> Moneve's Programming Life</h4>
-</h3>
+<h3> <a href="https://blog.naver.com/jhpark0012">Moneve's Programming Life </a> </h3>
 <p>
-  <i>There are many posts about Python and Mathematics.</i>
-  <i>I post more than three blog posts a week.</i>
+  <i>There are many blog posts about Python and Mathematics.</i>
+  <i>I post more than three posts a week.</i>
 </p>
 
 
