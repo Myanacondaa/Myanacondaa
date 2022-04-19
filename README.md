@@ -1,4 +1,4 @@
-<div align="center">
+
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=02343F&height=200&section=header&text=Moneve's%20GitHub&fontColor=F0EDCC&fontSize=70" />
 
@@ -27,6 +27,3 @@
 <p>
   <i>I post more than three posts a week.</i>
 </p>
-
-
-</div>
