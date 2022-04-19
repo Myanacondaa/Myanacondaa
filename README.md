@@ -3,9 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=02343F&height=200&section=header&text=Moneve's%20GitHub&fontColor=F0EDCC&fontSize=70" />
 
 #
-<h3> Tech Stack 
-<h4> Techs that I've used at least once</h4>
-</h3>
+<h2> Tech Stack 
+<h3> Techs that I've used at least once</h3>
+</h2>
 <p>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2b%2b&logoColor=white"/>
