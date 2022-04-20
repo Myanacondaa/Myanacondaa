@@ -36,7 +36,7 @@
 </p>
 
 #
-![Myanacondaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Myanacondaa&show_icons=true&theme=apprentice)
+![Myanacondaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Myanacondaa&show_icons=true&theme=graywhite)
 
 
 
