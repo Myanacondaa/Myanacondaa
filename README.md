@@ -24,7 +24,7 @@
 </p>
 
 #
-<h3> <a href="https://blog.naver.com/jhpark0012" target= '_blank'> MPL </a> </h3>
+<h3> <a href="https://blog.naver.com/jhpark0012"> MPL </a> </h3>
 <p>
   <i> - <b> Moneve's Programming Life </b> </i>
 </p>
@@ -34,3 +34,10 @@
 <p>
   <i> - I post more than three posts a week.</i>
 </p>
+
+#
+![Myanacondaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Myanacondaa&show_icons=true&theme=graywhite)
+
+
+
+
