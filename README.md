@@ -14,7 +14,13 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </p>
 
+<p>
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pycharm-000000?style=flat-square&logo=Pycharm&logoColor=000000"/>
 
+
+</p>
 
 #
 <h3> <a href="https://blog.naver.com/jhpark0012" target= '_blank'> MPL </a> </h3>
